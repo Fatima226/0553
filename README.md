@@ -1,3 +1,3 @@
 #Fatima
-##First time using github
+##First time using GitHub
 ###Second PF Lab
